@@ -1,0 +1,28 @@
+{
+  "name": "insomnia-query",
+  "version": "1.0.0",
+  "description": "Insomnia Plugin Template tag: Query",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mani Moayedi",
+  "license": "MIT",
+  "insomnia": {
+    "name": "query",
+    "displayName": "query plugin",
+    "description": "Find a value from a request body or response body by search",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.svg"
+    },
+    "publisher": {
+      "name": "Mani Moayedi",
+      "icon": "https://avatars.githubusercontent.com/u/18609123?v=4"
+    },
+    "unlisted": false
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}
