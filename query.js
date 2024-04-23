@@ -1,11 +1,6 @@
 
 
 
-
-
-//$.data(@name > 100 && @name <0 ).value
-
-
 function parseEvaluationPhrase(obj, phrase) {
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-query",
+  "name": "insomnia-plugin-query",
   "version": "1.0.0",
   "description": "Insomnia Plugin Template tag: Query",
   "main": "app.js",
@@ -14,7 +14,7 @@
     "description": "Find a value from a request body or response body by search",
     "images": {
       "icon": "icon.svg",
-      "cover": "cover.svg"
+      "cover": "cover.png"
     },
     "publisher": {
       "name": "Mani Moayedi",
