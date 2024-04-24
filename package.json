@@ -1,6 +1,7 @@
 {
   "name": "insomnia-plugin-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "private": false,
   "description": "Insomnia Plugin Template tag: Query",
   "main": "app.js",
   "scripts": {
